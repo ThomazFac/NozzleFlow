@@ -1,6 +1,6 @@
 # Convergent-Divergent Nozzle Flow Analysis and Comparison
 
-This repository contains Python code for calculating and comparing the results of flow through a convergent-divergent nozzle. The calculations are based on quasi-one-dimensional, isentropic, and perfect gas flow equations sourced from the literature. Additionally, the repository includes Computational Fluid Dynamics (CFD) simulation results obtained using Ansys Fluent.
+This repository contains Python code for calculating and comparing the results of flow through a convergent-divergent nozzle. The calculations are based on quasi-one-dimensional, isentropic, and perfect gas flow equations sourced from the literature. Additionally, the repository includes Computational Fluid Dynamics (CFD) simulation results obtained using Ansys Fluent. This code is part of a more complete study on flow through a supersonic gas separator.
 
 ## Background
 
@@ -10,3 +10,6 @@ Within the first seciotn of a convergent-divergent nozzle, the high-pressure flo
 ### Supersonic Separator
 
 The supersonic gas separator is a new technology that uses the processes of supersonic expansion and cyclonic separation to remove water and condensates, such as CO2, from natural gas. The supersonic device is formed by a convergent-divergent section where the flow is accelerated to supersonic speed in the nozzle, followed by a cyclonic separation region connected to a diffuser. The process of separation occurs by supersonic expansion, which decreases the gas temperature such that some components (particularly CO2) are condensed; in turn, the liquid droplets formed are separated from the gas being conducted by centrifugation towards downstream collectors installed on the nozzle walls.
+
+## Results
+
