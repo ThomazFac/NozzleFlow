@@ -23,3 +23,4 @@ For both calculations, the fluid was considered methane and, for the CFD simulat
 
 ### Static temperature
 <img src="Images/Temperature_plot.png" width="600">
+
