@@ -16,10 +16,10 @@ The supersonic gas separator is a new technology that uses the processes of supe
 For both calculations, the fluid was considered methane and, for the CFD simulations, the SST k-omega turbulence model was applied, as well as the Redlich-Kwong real gas equation of state.
 
 ### Mach number 
-<img src="Images/Mach_plot" width="500">
+<img src="Images/Mach_plot.png" width="600">
 
 ### Static pressre and Mach number
-<img src="Images/Mach_Pressure_plot" width="500">
+<img src="Images/Mach_Pressure_plot.png" width="600">
 
 ### Static temperature
-<img src="Images/Temperature_plot" width="500">
+<img src="Images/Temperature_plot.png" width="600">
